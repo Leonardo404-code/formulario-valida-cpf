@@ -4,6 +4,4 @@
 
 ### Using
 
-Extract the zip folder
-
 Open the file: Index.html
